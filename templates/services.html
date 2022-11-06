@@ -1,0 +1,108 @@
+{% extends 'startercss.html' %}
+{% load static %}
+{% block menu %}
+<header>
+    <div class="about" style="background-color: #b1bfbd">
+        <ul class="about_ul">
+                <li class="about_mail">
+
+                    <i class="fa fa-envelope-o"></i>
+                    <a href="mailto:mitesh.hmf@gmail.com">info@harimani.in</a>
+                </li>
+                <li class="about_phone">
+                    <i class="fa fa-phone" aria-hidden="true"></i>
+                    <a href="">(+91) 8007722224</a>
+                </li>
+        </ul>
+        <div class="social">
+            <a href="https://www.facebook.com/" target="_blank" class="icon-fa-facebook-square">
+                <i class="fa fa-facebook-square"></i></a>
+{#            <a href="https://www.twitter.com/" target="_blank" class="icon-fa-twitter"><i class="fa fa-twitter"></i></a>#}
+            <a href="https://www.linkedin.com/" target="_blank" class="icon-fa-linkedin">
+                <i class="fa fa-linkedin"></i></a>
+            <a href="https://www.instagram.com/" target="_blank" class="icon-fa-instagram">
+                <i class="fa fa-instagram"></i></a>
+        </div>
+    </div>
+        {% include 'navbar.html' %}
+        <main>
+            <section>
+            {% include 'services_carousal.html' %}
+
+            <div class="services_content">
+
+                <div class="services_cards" style="display: flex;">
+
+                    <div class="card card-1" style="width: 18rem;">
+                        <a href="{% url 'accounting_services' %}">
+                        <img src="{% static 'images/acc10.jpg' %}" height="250px" class="card-img-top" alt="...">
+                        </a>
+                        <div class="card-body">
+                            <p class="card-text">
+                                We do prepare tax returns, payments, necessary paperwork, and reports for all types of Buisness Firms.
+                                We also accompany and support you in the discussion of tax issues with the tax authorities.
+                            </p>
+                        </div>
+                        <a href="{% url 'accounting_services' %}" class="btn btn-primary">
+                            More Info  <i class="fa fa-arrow-right" aria-hidden="true"></i>
+                        </a>
+                    </div>
+
+                    <div class="card" style="width: 18rem;">
+                        <a href="{% url 'taxation_services' %}">
+                            <img src="{% static 'images/taxation.png' %}" height="250px" class="card-img-top" alt="...">
+                        </a>
+                    <div class="card-body">
+                        <p class="card-text">
+                            We ensure that we create value for your business, giving you the best tax advice & assistance.
+                        </p>
+                    </div>
+                        <a href="{% url 'taxation_services' %}" class="btn btn-primary">
+                            More Info <i class="fa fa-arrow-right" aria-hidden="true"></i>
+                        </a>
+                    </div>
+
+                    <div class="card" style="width: 18rem;">
+                        <a href="{% url 'compliance_services' %}">
+                            <img src="{% static 'images/compliance11.jpg' %}" height="250px" class="card-img-top" alt="...">
+                        </a>
+                    <div class="card-body">
+                        <p class="card-text">
+                             We work quickly to uncover and eliminate inefficient processes, offering strategic advice and sharing best practices based on years of experience.
+                        </p>
+                    </div>
+                        <a href="{% url 'compliance_services' %}" class="btn btn-primary">
+                            More Info <i class="fa fa-arrow-right" aria-hidden="true"></i>
+                        </a>
+                    </div>
+
+                    <div class="card" style="width: 18rem;">
+                        <a href="{% url 'auditing_services' %}">
+                            <img src="{% static 'images/Other-Services.jpg' %}" height="250px" class="card-img-top" alt="...">
+                        </a>
+                    <div class="card-body">
+                        <p class="card-text">
+                            We manage human capital of an organisation and focus on the growth of the firm as well as its employees.
+                            For an efficient payroll management process, the payroll administrator needs to plan the payroll process step-by-step.
+                        </p>
+                    </div>
+                        <a href="{% url 'auditing_services' %}" class="btn btn-primary">
+                            More Info <i class="fa fa-arrow-right" aria-hidden="true"></i>
+                        </a>
+                    </div>
+
+                </div>
+
+            </div>
+
+                {% include 'footer.html' %}
+            </section>
+
+
+        </main>
+
+
+
+</header>
+
+{% endblock %}

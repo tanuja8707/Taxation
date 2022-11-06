@@ -1,0 +1,82 @@
+
+<div class="tab_menu">
+<h1>WHO WE ARE</h1>
+<div class="w3-bar w3-teal" >
+  <button class="w3-bar-item w3-button who_btn" onclick="openCity('tab-1')">Accounting</button>
+  <button class="w3-bar-item w3-button who_btn" onclick="openCity('tab-2')">Taxation</button>
+  <button class="w3-bar-item w3-button who_btn" onclick="openCity('tab-3')">Compliance</button>
+  <button class="w3-bar-item w3-button who_btn" onclick="openCity('tab-4')">Other Services</button>
+</div>
+
+<div id="tab-1" class="w3-container city">
+  <h3>End-To-End Accounting</h3>
+  <p>
+        We do prepare tax returns, payments, necessary paperwork, and reports for all types of Buisness Firms.
+        Assess and research difficult tax issues to identify solutions.
+        Manage and maintain the company’s tax database.
+        Determine tax savings and recommend strategies to improve profits.
+        Prepare accurate quarterly and annual tax reports.
+  </p>
+</div>
+
+<div id="tab-2" class="w3-container city" style="display:none;">
+  <h3>Taxation Services</h3>
+  <p>
+      Managing taxation complexity has become a necessity for the enterprises in order to maximize value from
+      every important business decision. While we ensure, that you maintain compliance, we make definitely
+      sure that we create value for your business, giving you the best tax advice & assistance.
+  </p>
+</div>
+
+<div id="tab-3" class="w3-container city" style="display:none">
+  <h3>Tax Compliance</h3>
+  <p>
+        We provide a breadth of expertise in tax administration and process improvement to help clients
+        effectively manage their compliance processes and focus on a broader strategic vision for total tax performance.
+        We work quickly to uncover and eliminate inefficient processes, offering strategic advice and
+        sharing best practices based on years of experience.
+  </p>
+</div>
+
+<div id="tab-4" class="w3-container city" style="display:none">
+  <h3>Other Services</h3>
+  <p>
+      <table align="center" border="0" class="home_services_table">
+        <tr style="width: 100%">
+            <th>HR Management</th>
+            <th>Payroll Processing</th>
+            <th>Auditing</th>
+
+        </tr>
+        <tr>
+            <td>
+                HR Management plays an important role in any organisation. We manage human capital of an organisation and
+                focus on the growth of the firm as well as its employees.
+            </td>
+            <td>
+                <br>
+                Payroll processing is an essential business function that involves arriving at the ‘net pay’ of the
+                employees after the adjustment of necessary taxes and deductions. For an efficient payroll management
+                process, the payroll administrator needs to plan the payroll process step-by-step.
+            </td>
+            <td>
+                Auditing is the part of the accounting world. It is an examination of accounting and financial
+                records that is undertaken independently.
+            </td>
+        </tr>
+      </table>
+  </p>
+</div>
+
+<script>
+function openCity(cityName) {
+  var i;
+  var x = document.getElementsByClassName("city");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  document.getElementById(cityName).style.display = "block";
+}
+</script>
+
+</div>

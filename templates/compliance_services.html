@@ -1,0 +1,80 @@
+{% extends 'startercss.html' %}
+{% load static %}
+{% block menu %}
+<header>
+    <div class="about">
+        <ul class="about_ul">
+                <li class="about_mail">
+
+                    <i class="fa fa-envelope-o"></i>
+                    <a href="mailto:mitesh.hmf@gmail.com">info@harimani.in</a>
+                </li>
+                <li class="about_phone">
+                    <i class="fa fa-phone" aria-hidden="true"></i>
+                    <a href="">(+91) 8007722224</a>
+                </li>
+        </ul>
+        <div class="social">
+            <a href="https://www.facebook.com/atacserv " target="_blank" class="icon-fa-facebook-square">
+                <i class="fa fa-facebook-square"></i></a>
+            <a href="https://www.twitter.com/" target="_blank" class="icon-fa-twitter"><i class="fa fa-twitter"></i></a>
+            <a href="https://www.linkedin.com/company/atacservices/" target="_blank" class="icon-fa-linkedin">
+                <i class="fa fa-linkedin"></i></a>
+            <a href="https://www.instagram.com/atacservices/" target="_blank" class="icon-fa-instagram">
+                <i class="fa fa-instagram"></i></a>
+        </div>
+    </div>
+        {% include 'navbar.html' %}
+        <main>
+            <section>
+            <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="{% static 'images/acc15.jpg' %}" style="opacity: 0.5" class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block" style="margin-bottom: 150px;color: black;">
+                         <h1>Tax Compliance</h1>
+                        <h3>A Compliance plan shows you have a system of checks in place.</h3> - Bruce Blehart
+                    </div>
+                </div>
+            </div>
+            </div>
+
+
+
+            <div class="services_content_section" >
+                <div class="services_content_topsection">
+                    <div class="services_content_topleft col-6">
+                    <p>
+                    We provide a breadth of expertise in tax administration and process improvement to help clients
+        effectively manage their compliance processes and focus on a broader strategic vision for total tax performance.
+        We work quickly to uncover and eliminate inefficient processes, offering strategic advice and
+        sharing best practices based on years of experience.
+                    </p>
+                    </div>
+                    <div class="services_content_topright col-6">
+                        <img src="{% static 'images/compliance112.jpg' %}" width="700px" height="450px" style="margin-top: 50px">
+                    </div>
+                </div>
+{#                <div class="services_content_bottomsection">#}
+{#                    <div class="services_content_bottomleft col-6">#}
+{#                    hiiiiiiiiii#}
+{#                    </div>#}
+{#                    <div class="services_content_bottomright col-6">#}
+{#                    byeeeeeeeee#}
+{#                    </div>#}
+{#                </div>#}
+            </div>
+                <div style="padding: 50px 50px">
+                    <a class="back-btn" href="{% url 'services' %}" style="color: #050763; border-style: solid;border-color: #050763; text-decoration: none;padding: 4px 4px; ">Back to Services</a>
+                </div>
+                {% include 'footer.html' %}
+            </section>
+
+
+        </main>
+
+
+
+</header>
+
+{% endblock %}

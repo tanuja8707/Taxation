@@ -1,0 +1,52 @@
+{% extends 'startercss.html' %}
+{% load static %}
+{% block menu %}
+<header>
+    <div class="about" style="background-color: #b1bfbd">
+        <ul class="about_ul">
+                <li class="about_mail">
+
+                    <i class="fa fa-envelope-o"></i>
+                    <a href="mailto:mitesh.hmf@gmail.com">info@harimani.in</a>
+                </li>
+                <li class="about_phone">
+                    <i class="fa fa-phone" aria-hidden="true"></i>
+                    <a href="">(+91) 8007722224</a>
+                </li>
+        </ul>
+        <div class="social">
+            <a href="https://www.facebook.com/ " target="_blank" class="icon-fa-facebook-square">
+                <i class="fa fa-facebook-square"></i></a>
+{#            <a href="https://www.twitter.com/" target="_blank" class="icon-fa-twitter"><i class="fa fa-twitter"></i></a>#}
+            <a href="https://www.linkedin.com/" target="_blank" class="icon-fa-linkedin">
+                <i class="fa fa-linkedin"></i></a>
+            <a href="https://www.instagram.com/" target="_blank" class="icon-fa-instagram">
+                <i class="fa fa-instagram"></i></a>
+        </div>
+    </div>
+        {% include 'navbar.html' %}
+        <main>
+            <section>
+            {% include 'career_carousal.html' %}
+            <div class="enquiry" style="height: 700px">
+                <div class="career_left col-7">
+                    <h2>Do you want to build your career in Accounting?</h2>
+                    <h4>Don't think too much to get enroll for the training!!</h4>
+                    We provide internship training for the period of 3 months to 6 months.
+                    Feel free to contact us if you have any further enquiries about trainings.
+                </div>
+                <div class="career_right col-5">
+                    {% include 'careerForm.html' %}
+                </div>
+            </div>
+                {% include 'footer.html' %}
+            </section>
+
+
+        </main>
+
+
+
+</header>
+
+{% endblock %}

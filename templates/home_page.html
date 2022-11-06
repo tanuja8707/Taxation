@@ -1,0 +1,83 @@
+{% extends 'startercss.html' %}
+{% load static %}
+{% block menu %}
+<header>
+    <div class="about" style="background-color: #b1bfbd">
+        <ul class="about_ul">
+                <li class="about_mail">
+
+                    <i class="fa fa-envelope-o"></i>
+                    <a href="mailto:mitesh.hmf@gmail.com">info@harimani.in</a>
+                </li>
+                <li class="about_phone">
+                    <i class="fa fa-phone" aria-hidden="true"></i>
+                    <a href="">(+91) 8007722224</a>
+                </li>
+        </ul>
+        <div class="social">
+            <a href="https://www.facebook.com/ " target="_blank" class="icon-fa-facebook-square">
+                <i class="fa fa-facebook-square"></i></a>
+{#            <a href="https://www.twitter.com/" target="_blank" class="icon-fa-twitter"><i class="fa fa-twitter"></i></a>#}
+            <a href="https://www.linkedin.com/" target="_blank" class="icon-fa-linkedin">
+                <i class="fa fa-linkedin"></i></a>
+            <a href="https://www.instagram.com/" target="_blank" class="icon-fa-instagram">
+                <i class="fa fa-instagram"></i></a>
+        </div>
+    </div>
+        {% include 'navbar.html' %}
+        <main>
+            <section>
+            {% include 'carousal.html' %}
+            <div class="intro_section">
+                <div class="intro_heading">
+                    <h1 style="text-align: center; margin-top: 50px;">HariMani Finserv </h1>
+                    <h6 style="text-align: center">We Settle the Accounts.....</h6>
+                </div>
+                <div class="intro_content" style="padding: 20px 60px 0px 60px;">
+                    <p>
+                        HariMani takes pride in being a full-service integrated firm having a strong research-based and technology-driven approach for providing effective solutions to businesses.
+                         We are responsible for assisting our clients and companies with their financial and income tax statements.
+                        Our firm continuously strives to be the Premier Accounting and Consultancy firm that provides excellent service to our clients and an excellent quality of life for our associates.
+                        We are in market since year and till now we have grown with these many clients.
+                        The services we provide includes end-to-end accounting, Tax Compliance, HR Management, Payroll Processing and Tax Return Filing (IncomeTax, TDS, GST).
+
+                    </p>
+                 </div>
+            </div>
+            <div class="home_tab">
+                {% include 'home_tabmenu.html' %}
+            </div>
+                <div class="home_images" style="display: flex;height: 400px;">
+                    <div class="col-4 home_img">
+                        <img src="{% static 'images/accounting_services.png' %}" alt="" height="400px">
+                    </div>
+                    <div class="col-4 home_img">
+                        <img src="{% static 'images/accounting_weprovide.png' %}" alt="" height="400px" width="520px">
+                    </div>
+                    <div class="col-4 home_img" >
+                        <img src="{% static 'images/accounting113.jpg' %}" alt="" height="400px" width="520px">
+                    </div>
+                </div>
+                {% include 'footer.html' %}
+            </section>
+
+
+        </main>
+
+
+
+</header>
+
+{% endblock %}
+
+<style>
+    .about_ul li a{
+        color: #050763;
+    }
+</style>
+
+{#<style>#}
+{#    .home_img:hover{#}
+{#        box-shadow: #050763;#}
+{#    }#}
+{#</style>#}

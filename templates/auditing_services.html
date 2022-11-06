@@ -1,0 +1,82 @@
+{% extends 'startercss.html' %}
+{% load static %}
+{% block menu %}
+<header>
+    <div class="about">
+        <ul class="about_ul">
+                <li class="about_mail">
+
+                    <i class="fa fa-envelope-o"></i>
+                    <a href="mailto:mitesh.hmf@gmail.com">info@harimani.in</a>
+                </li>
+                <li class="about_phone">
+                    <i class="fa fa-phone" aria-hidden="true"></i>
+                    <a href="">(+91) 8007722224</a>
+                </li>
+        </ul>
+        <div class="social">
+            <a href="https://www.facebook.com/atacserv " target="_blank" class="icon-fa-facebook-square">
+                <i class="fa fa-facebook-square"></i></a>
+            <a href="https://www.twitter.com/" target="_blank" class="icon-fa-twitter"><i class="fa fa-twitter"></i></a>
+            <a href="https://www.linkedin.com/company/atacservices/" target="_blank" class="icon-fa-linkedin">
+                <i class="fa fa-linkedin"></i></a>
+            <a href="https://www.instagram.com/atacservices/" target="_blank" class="icon-fa-instagram">
+                <i class="fa fa-instagram"></i></a>
+        </div>
+    </div>
+        {% include 'navbar.html' %}
+        <main>
+            <section>
+            <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="{% static 'images/acc14.jpg' %}" style="opacity: 0.5" class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block" style="margin-bottom: 150px;color: black;">
+                         <h1>HR Management and Payroll Processing</h1>
+                        <h3>The Strengthof the team is each individual member.<br> The Strength of each member is the Team.</h3> - Phil Jackson
+                    </div>
+                </div>
+            </div>
+            </div>
+
+
+
+            <div class="services_content_section" >
+                <div class="services_content_topsection">
+                    <div class="services_content_topleft col-6">
+                    <p>
+                         HR Management plays an important role in any organisation. We manage human capital of an organisation and
+                focus on the growth of the firm as well as its employees.
+                    </p>
+                    </div>
+                    <div class="services_content_topright col-6">
+                        <img src="{% static 'images/Human-Resource-Management-Companies.jpg' %}" width="700px" height="450px" style="margin-top: 50px">
+                    </div>
+                </div>
+                <div class="services_content_bottomsection">
+                    <div class="services_content_bottomleft col-6">
+                        <img src="{% static 'images/payroll-processing1.png' %}" width="700px" height="450px" style="margin-bottom: 50px;padding: 0 50px 40px 60px;">
+                    </div>
+                    <div class="services_content_bottomright col-6">
+                        <p style="margin-top: 100px;font-size: 20px">
+                            Payroll processing is an essential business function that involves arriving at the ‘net pay’ of the
+                employees after the adjustment of necessary taxes and deductions. For an efficient payroll management
+                process, the payroll administrator needs to plan the payroll process step-by-step.
+                        </p>
+                    </div>
+                </div>
+            </div>
+                <div style="padding: 50px 50px">
+                    <a class="back-btn" href="{% url 'services' %}" style="color: #050763; border-style: solid;border-color: #050763; text-decoration: none;padding: 4px 4px; ">Back to Services</a>
+                </div>
+                {% include 'footer.html' %}
+            </section>
+
+
+        </main>
+
+
+
+</header>
+
+{% endblock %}

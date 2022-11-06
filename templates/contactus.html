@@ -1,0 +1,77 @@
+{% extends 'startercss.html' %}
+{% load static %}
+{% block menu %}
+<header>
+    <div class="about" style="background-color: #b1bfbd">
+        <ul class="about_ul">
+                <li class="about_mail">
+
+                    <i class="fa fa-envelope-o"></i>
+                    <a href="mailto:mitesh.hmf@gmail.com">info@harimani.in</a>
+                </li>
+                <li class="about_phone">
+                    <i class="fa fa-phone" aria-hidden="true"></i>
+                    <a href="">(+91) 8007722224</a>
+                </li>
+        </ul>
+        <div class="social">
+            <a href="https://www.facebook.com/" target="_blank" class="icon-fa-facebook-square">
+                <i class="fa fa-facebook-square"></i></a>
+{#            <a href="https://www.twitter.com/" target="_blank" class="icon-fa-twitter"><i class="fa fa-twitter"></i></a>#}
+            <a href="https://www.linkedin.com/" target="_blank" class="icon-fa-linkedin">
+                <i class="fa fa-linkedin"></i></a>
+            <a href="https://www.instagram.com/" target="_blank" class="icon-fa-instagram">
+                <i class="fa fa-instagram"></i></a>
+        </div>
+    </div>
+        {% include 'navbar.html' %}
+        <main>
+            <section>
+            {% include 'contactus_carousal.html' %}
+            <div class="enquiry" style="height: 700px">
+                <div class="enquiry_left">
+                    <div class="enquiry_address">
+                    <i class="fa fa-home" aria-hidden="true" style="font-size: 50px"></i>
+                    <p class="address">
+                        Address
+                    </p>
+                        </div>
+                    <h4 style="margin-left: 100px">Head Office : </h4>
+                    <p>
+                        Flat no 9 Ground Floor, Jailaxmi,<br> Shri Datta Co- Op Hsg Society,<br> Right Bhusari Colony, Kothrud,<br> Pune, Maharashtra 411038
+                    </p>
+                    <h4 style="margin-left: 100px">Branches :</h4>
+                    <p>
+                        <i class="fa fa-chevron-right" aria-hidden="true" style="margin-right: 8px"></i>Baner (Baner Pashan Link Road)<br>
+                        <i class="fa fa-chevron-right" aria-hidden="true" style="margin-right: 8px"></i>Shukrawar Peth (Bajirao Road)
+                    </p>
+                    <div class="enquiry_address">
+                    <i class="fa fa-phone" aria-hidden="true" style="font-size: 50px"></i>
+                    <p class="address">
+                        Contact
+                    </p>
+                    </div>
+                    <p>
+                        (+91) 8007722224
+                    </p>
+                </div>
+                <div class="enquiry_right">
+                    {% include 'enquiryForm.html' %}
+                    <div style="width: 550px;margin: 0px 200px">
+                        <a href="">
+                            <img src="{% static 'images/map.png' %}" alt="" height="250" width="550">
+                        </a>
+                    </div>
+                </div>
+            </div>
+                {% include 'footer.html' %}
+            </section>
+
+
+        </main>
+
+
+
+</header>
+
+{% endblock %}

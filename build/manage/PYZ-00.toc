@@ -1,0 +1,4457 @@
+('F:\\Project Class\\Accountancy\\build\\manage\\PYZ-00.pyz',
+ [('django.utils.autoreload',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\autoreload.py',
+   'PYMODULE'),
+  ('django.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\__init__.py',
+   'PYMODULE'),
+  ('django.utils.feedgenerator',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\feedgenerator.py',
+   'PYMODULE'),
+  ('django.utils.xmlutils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\xmlutils.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\netrc.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\stat.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gettext.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\copy.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\struct.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\quopri.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\typing.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\configparser.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\csv.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\token.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compression.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bz2.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\numbers.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ssl.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\string.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\selectors.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\optparse.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bisect.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\base64.py',
+   'PYMODULE'),
+  ('django.utils.timezone',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\timezone.py',
+   'PYMODULE'),
+  ('django.conf',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.urls',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\urls\\__init__.py',
+   'PYMODULE'),
+  ('django.views.defaults',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\views\\defaults.py',
+   'PYMODULE'),
+  ('django.views.decorators.csrf',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\views\\decorators\\csrf.py',
+   'PYMODULE'),
+  ('django.views.decorators',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\views\\decorators\\__init__.py',
+   'PYMODULE'),
+  ('django.utils.decorators',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\decorators.py',
+   'PYMODULE'),
+  ('django.middleware.csrf',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\middleware\\csrf.py',
+   'PYMODULE'),
+  ('django.utils.log',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\log.py',
+   'PYMODULE'),
+  ('django.utils.module_loading',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\module_loading.py',
+   'PYMODULE'),
+  ('django.core.management.color',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\color.py',
+   'PYMODULE'),
+  ('django.core.mail',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\mail\\__init__.py',
+   'PYMODULE'),
+  ('email.mime.audio',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\mime\\audio.py',
+   'PYMODULE'),
+  ('email.mime',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\mime\\__init__.py',
+   'PYMODULE'),
+  ('email.mime.nonmultipart',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\mime\\nonmultipart.py',
+   'PYMODULE'),
+  ('email.mime.base',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\mime\\base.py',
+   'PYMODULE'),
+  ('sndhdr',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sndhdr.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\glob.py',
+   'PYMODULE'),
+  ('wave',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\wave.py',
+   'PYMODULE'),
+  ('chunk',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\chunk.py',
+   'PYMODULE'),
+  ('aifc',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\aifc.py',
+   'PYMODULE'),
+  ('email.mime.multipart',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\mime\\multipart.py',
+   'PYMODULE'),
+  ('email.mime.text',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\mime\\text.py',
+   'PYMODULE'),
+  ('email.mime.image',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\mime\\image.py',
+   'PYMODULE'),
+  ('imghdr',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\imghdr.py',
+   'PYMODULE'),
+  ('email.mime.message',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\mime\\message.py',
+   'PYMODULE'),
+  ('django.core.mail.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\mail\\utils.py',
+   'PYMODULE'),
+  ('django.core.mail.message',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\mail\\message.py',
+   'PYMODULE'),
+  ('django.core',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\__init__.py',
+   'PYMODULE'),
+  ('django.core.validators',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\validators.py',
+   'PYMODULE'),
+  ('django.utils.translation',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\translation\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\__init__.py',
+   'PYMODULE'),
+  ('django.utils.translation.template',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\translation\\template.py',
+   'PYMODULE'),
+  ('django.template.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\base.py',
+   'PYMODULE'),
+  ('django.template.engine',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\engine.py',
+   'PYMODULE'),
+  ('django.template.backends.django',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\backends\\django.py',
+   'PYMODULE'),
+  ('django.template.backends',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\backends\\__init__.py',
+   'PYMODULE'),
+  ('django.template.backends.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\backends\\base.py',
+   'PYMODULE'),
+  ('django.utils._os',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\_os.py',
+   'PYMODULE'),
+  ('django.template.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\utils.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('django.template.library',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\library.py',
+   'PYMODULE'),
+  ('django.utils.itercompat',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\itercompat.py',
+   'PYMODULE'),
+  ('django.template.exceptions',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\exceptions.py',
+   'PYMODULE'),
+  ('django.utils.text',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\text.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('django.utils.safestring',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\safestring.py',
+   'PYMODULE'),
+  ('django.utils.html',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\html.py',
+   'PYMODULE'),
+  ('django.core.serializers.json',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\serializers\\json.py',
+   'PYMODULE'),
+  ('django.core.serializers',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\serializers\\__init__.py',
+   'PYMODULE'),
+  ('django.utils.duration',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\duration.py',
+   'PYMODULE'),
+  ('django.core.serializers.python',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\serializers\\python.py',
+   'PYMODULE'),
+  ('django.db.models',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\__init__.py',
+   'PYMODULE'),
+  ('django.db.models.fields.related',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\fields\\related.py',
+   'PYMODULE'),
+  ('django.db.models.fields.reverse_related',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\fields\\reverse_related.py',
+   'PYMODULE'),
+  ('django.utils.hashable',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\hashable.py',
+   'PYMODULE'),
+  ('django.db.models.fields.related_lookups',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\fields\\related_lookups.py',
+   'PYMODULE'),
+  ('django.db.models.sql.where',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\sql\\where.py',
+   'PYMODULE'),
+  ('django.db.models.fields.related_descriptors',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\fields\\related_descriptors.py',
+   'PYMODULE'),
+  ('django.db.transaction',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\transaction.py',
+   'PYMODULE'),
+  ('django.db.models.fields.mixins',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\fields\\mixins.py',
+   'PYMODULE'),
+  ('django.db.models.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\utils.py',
+   'PYMODULE'),
+  ('django.db.models.constants',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\constants.py',
+   'PYMODULE'),
+  ('django.db.backends.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\utils.py',
+   'PYMODULE'),
+  ('django.db.backends',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\__init__.py',
+   'PYMODULE'),
+  ('django.db.backends.sqlite3.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\sqlite3\\base.py',
+   'PYMODULE'),
+  ('django.db.backends.sqlite3.schema',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\sqlite3\\schema.py',
+   'PYMODULE'),
+  ('django.db.backends.ddl_references',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\ddl_references.py',
+   'PYMODULE'),
+  ('django.db.backends.base.schema',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\base\\schema.py',
+   'PYMODULE'),
+  ('django.db.backends.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\base\\__init__.py',
+   'PYMODULE'),
+  ('django.apps.registry',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\apps\\registry.py',
+   'PYMODULE'),
+  ('django.apps.config',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\apps\\config.py',
+   'PYMODULE'),
+  ('django.db.backends.sqlite3.operations',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\sqlite3\\operations.py',
+   'PYMODULE'),
+  ('django.db.backends.base.operations',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\base\\operations.py',
+   'PYMODULE'),
+  ('sqlparse',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\sqlparse\\__init__.py',
+   'PYMODULE'),
+  ('sqlparse.formatter',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\sqlparse\\formatter.py',
+   'PYMODULE'),
+  ('sqlparse.exceptions',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\sqlparse\\exceptions.py',
+   'PYMODULE'),
+  ('sqlparse.filters',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\sqlparse\\filters\\__init__.py',
+   'PYMODULE'),
+  ('sqlparse.filters.aligned_indent',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\sqlparse\\filters\\aligned_indent.py',
+   'PYMODULE'),
+  ('sqlparse.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\sqlparse\\utils.py',
+   'PYMODULE'),
+  ('sqlparse.filters.right_margin',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\sqlparse\\filters\\right_margin.py',
+   'PYMODULE'),
+  ('sqlparse.filters.reindent',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\sqlparse\\filters\\reindent.py',
+   'PYMODULE'),
+  ('sqlparse.filters.tokens',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\sqlparse\\filters\\tokens.py',
+   'PYMODULE'),
+  ('sqlparse.filters.output',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\sqlparse\\filters\\output.py',
+   'PYMODULE'),
+  ('sqlparse.filters.others',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\sqlparse\\filters\\others.py',
+   'PYMODULE'),
+  ('sqlparse.engine',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\sqlparse\\engine\\__init__.py',
+   'PYMODULE'),
+  ('sqlparse.engine.statement_splitter',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\sqlparse\\engine\\statement_splitter.py',
+   'PYMODULE'),
+  ('sqlparse.engine.filter_stack',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\sqlparse\\engine\\filter_stack.py',
+   'PYMODULE'),
+  ('sqlparse.engine.grouping',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\sqlparse\\engine\\grouping.py',
+   'PYMODULE'),
+  ('sqlparse.lexer',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\sqlparse\\lexer.py',
+   'PYMODULE'),
+  ('sqlparse.keywords',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\sqlparse\\keywords.py',
+   'PYMODULE'),
+  ('sqlparse.cli',
+   'f:\\project class\\accountancy\\venv\\lib\\site-packages\\sqlparse\\cli.py',
+   'PYMODULE'),
+  ('sqlparse.sql',
+   'f:\\project class\\accountancy\\venv\\lib\\site-packages\\sqlparse\\sql.py',
+   'PYMODULE'),
+  ('sqlparse.tokens',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\sqlparse\\tokens.py',
+   'PYMODULE'),
+  ('django.db.backends.sqlite3.introspection',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\sqlite3\\introspection.py',
+   'PYMODULE'),
+  ('django.db.backends.base.introspection',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\base\\introspection.py',
+   'PYMODULE'),
+  ('django.db.backends.sqlite3.features',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\sqlite3\\features.py',
+   'PYMODULE'),
+  ('django.db.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\utils.py',
+   'PYMODULE'),
+  ('django.utils.connection',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\connection.py',
+   'PYMODULE'),
+  ('django.db.backends.base.features',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\base\\features.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('django.db.backends.sqlite3',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('django.db.backends.sqlite3.creation',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\sqlite3\\creation.py',
+   'PYMODULE'),
+  ('django.db.backends.base.creation',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\base\\creation.py',
+   'PYMODULE'),
+  ('django.db.migrations.loader',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\migrations\\loader.py',
+   'PYMODULE'),
+  ('django.db.migrations',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\migrations\\__init__.py',
+   'PYMODULE'),
+  ('django.db.migrations.migration',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\migrations\\migration.py',
+   'PYMODULE'),
+  ('django.db.migrations.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\migrations\\utils.py',
+   'PYMODULE'),
+  ('django.db.migrations.operations',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\migrations\\operations\\__init__.py',
+   'PYMODULE'),
+  ('django.db.migrations.operations.special',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\migrations\\operations\\special.py',
+   'PYMODULE'),
+  ('django.db.migrations.operations.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\migrations\\operations\\base.py',
+   'PYMODULE'),
+  ('django.db.migrations.operations.models',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\migrations\\operations\\models.py',
+   'PYMODULE'),
+  ('django.db.migrations.operations.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\migrations\\operations\\utils.py',
+   'PYMODULE'),
+  ('django.db.models.options',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\options.py',
+   'PYMODULE'),
+  ('django.utils.datastructures',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\datastructures.py',
+   'PYMODULE'),
+  ('django.db.migrations.state',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\migrations\\state.py',
+   'PYMODULE'),
+  ('django.core.checks.model_checks',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\checks\\model_checks.py',
+   'PYMODULE'),
+  ('django.db.migrations.operations.fields',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\migrations\\operations\\fields.py',
+   'PYMODULE'),
+  ('django.db.migrations.exceptions',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\migrations\\exceptions.py',
+   'PYMODULE'),
+  ('django.db.migrations.recorder',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\migrations\\recorder.py',
+   'PYMODULE'),
+  ('django.db.migrations.graph',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\migrations\\graph.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\queue.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\runpy.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\secrets.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\doctest.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tty.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\cmd.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('django.db.backends.sqlite3.client',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\sqlite3\\client.py',
+   'PYMODULE'),
+  ('django.db.backends.base.client',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\base\\client.py',
+   'PYMODULE'),
+  ('django.utils.dateparse',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\dateparse.py',
+   'PYMODULE'),
+  ('django.utils.asyncio',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\asyncio.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('django.db.backends.postgresql.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\postgresql\\base.py',
+   'PYMODULE'),
+  ('django.db.backends.postgresql',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\postgresql\\__init__.py',
+   'PYMODULE'),
+  ('django.db.backends.postgresql.schema',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\postgresql\\schema.py',
+   'PYMODULE'),
+  ('django.db.backends.postgresql.operations',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\postgresql\\operations.py',
+   'PYMODULE'),
+  ('django.db.backends.postgresql.introspection',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\postgresql\\introspection.py',
+   'PYMODULE'),
+  ('django.db.backends.postgresql.features',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\postgresql\\features.py',
+   'PYMODULE'),
+  ('django.db.backends.postgresql.creation',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\postgresql\\creation.py',
+   'PYMODULE'),
+  ('django.db.backends.postgresql.client',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\postgresql\\client.py',
+   'PYMODULE'),
+  ('django.db.backends.oracle.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\oracle\\base.py',
+   'PYMODULE'),
+  ('django.db.backends.oracle.validation',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\oracle\\validation.py',
+   'PYMODULE'),
+  ('django.db.backends.base.validation',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\base\\validation.py',
+   'PYMODULE'),
+  ('django.db.backends.oracle.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\oracle\\utils.py',
+   'PYMODULE'),
+  ('django.db.backends.oracle.schema',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\oracle\\schema.py',
+   'PYMODULE'),
+  ('django.db.backends.oracle.operations',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\oracle\\operations.py',
+   'PYMODULE'),
+  ('django.db.backends.oracle.introspection',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\oracle\\introspection.py',
+   'PYMODULE'),
+  ('django.db.backends.oracle.features',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\oracle\\features.py',
+   'PYMODULE'),
+  ('django.db.backends.oracle.creation',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\oracle\\creation.py',
+   'PYMODULE'),
+  ('django.db.backends.oracle.client',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\oracle\\client.py',
+   'PYMODULE'),
+  ('django.db.backends.oracle',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\oracle\\__init__.py',
+   'PYMODULE'),
+  ('django.db.backends.mysql.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\mysql\\base.py',
+   'PYMODULE'),
+  ('django.db.backends.mysql.compiler',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\mysql\\compiler.py',
+   'PYMODULE'),
+  ('django.db.backends.mysql',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\mysql\\__init__.py',
+   'PYMODULE'),
+  ('django.db.backends.mysql.validation',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\mysql\\validation.py',
+   'PYMODULE'),
+  ('django.db.backends.mysql.schema',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\mysql\\schema.py',
+   'PYMODULE'),
+  ('django.db.backends.mysql.operations',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\mysql\\operations.py',
+   'PYMODULE'),
+  ('django.db.backends.mysql.introspection',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\mysql\\introspection.py',
+   'PYMODULE'),
+  ('django.db.backends.mysql.features',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\mysql\\features.py',
+   'PYMODULE'),
+  ('django.db.backends.mysql.creation',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\mysql\\creation.py',
+   'PYMODULE'),
+  ('django.db.backends.mysql.client',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\mysql\\client.py',
+   'PYMODULE'),
+  ('django.db.backends.dummy.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\dummy\\base.py',
+   'PYMODULE'),
+  ('django.db.backends.dummy',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('django.db.backends.dummy.features',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\dummy\\features.py',
+   'PYMODULE'),
+  ('django.db.backends.base.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\base\\base.py',
+   'PYMODULE'),
+  ('django.db.backends.signals',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\signals.py',
+   'PYMODULE'),
+  ('django.db.models.sql.compiler',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\sql\\compiler.py',
+   'PYMODULE'),
+  ('django.db.models.sql.query',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\sql\\query.py',
+   'PYMODULE'),
+  ('django.db.models.sql.subqueries',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\sql\\subqueries.py',
+   'PYMODULE'),
+  ('django.db.models.sql.datastructures',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\sql\\datastructures.py',
+   'PYMODULE'),
+  ('django.db.models.sql.constants',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\sql\\constants.py',
+   'PYMODULE'),
+  ('django.db.models.functions',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\functions\\__init__.py',
+   'PYMODULE'),
+  ('django.db.models.functions.window',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\functions\\window.py',
+   'PYMODULE'),
+  ('django.db.models.functions.text',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\functions\\text.py',
+   'PYMODULE'),
+  ('django.db.models.functions.math',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\functions\\math.py',
+   'PYMODULE'),
+  ('django.db.models.functions.mixins',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\functions\\mixins.py',
+   'PYMODULE'),
+  ('django.db.backends.oracle.functions',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\backends\\oracle\\functions.py',
+   'PYMODULE'),
+  ('django.db.models.functions.datetime',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\functions\\datetime.py',
+   'PYMODULE'),
+  ('django.db.models.functions.comparison',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\functions\\comparison.py',
+   'PYMODULE'),
+  ('django.forms',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\forms\\__init__.py',
+   'PYMODULE'),
+  ('django.forms.widgets',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\forms\\widgets.py',
+   'PYMODULE'),
+  ('django.forms.renderers',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\forms\\renderers.py',
+   'PYMODULE'),
+  ('django.template.backends.jinja2',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\backends\\jinja2.py',
+   'PYMODULE'),
+  ('django.template.backends.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\backends\\utils.py',
+   'PYMODULE'),
+  ('django.utils.topological_sort',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\topological_sort.py',
+   'PYMODULE'),
+  ('django.utils.dates',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\dates.py',
+   'PYMODULE'),
+  ('django.templatetags.static',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\templatetags\\static.py',
+   'PYMODULE'),
+  ('django.templatetags',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\templatetags\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.staticfiles.storage',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\staticfiles\\storage.py',
+   'PYMODULE'),
+  ('django.contrib.staticfiles',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\staticfiles\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.messages',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\messages\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.messages.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\messages\\utils.py',
+   'PYMODULE'),
+  ('django.contrib.messages.api',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\messages\\api.py',
+   'PYMODULE'),
+  ('django.contrib.messages.storage',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\messages\\storage\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.messages.constants',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\messages\\constants.py',
+   'PYMODULE'),
+  ('django.core.files.storage',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\files\\storage.py',
+   'PYMODULE'),
+  ('django.core.files.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\files\\utils.py',
+   'PYMODULE'),
+  ('django.core.files.move',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\files\\move.py',
+   'PYMODULE'),
+  ('django.core.files.locks',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\files\\locks.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('django.core.files',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\files\\__init__.py',
+   'PYMODULE'),
+  ('django.core.files.uploadhandler',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\files\\uploadhandler.py',
+   'PYMODULE'),
+  ('django.core.files.uploadedfile',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\files\\uploadedfile.py',
+   'PYMODULE'),
+  ('django.core.files.temp',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\files\\temp.py',
+   'PYMODULE'),
+  ('django.core.files.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\files\\base.py',
+   'PYMODULE'),
+  ('django.contrib.staticfiles.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\staticfiles\\utils.py',
+   'PYMODULE'),
+  ('django.forms.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\forms\\utils.py',
+   'PYMODULE'),
+  ('django.forms.models',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\forms\\models.py',
+   'PYMODULE'),
+  ('django.forms.formsets',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\forms\\formsets.py',
+   'PYMODULE'),
+  ('django.forms.forms',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\forms\\forms.py',
+   'PYMODULE'),
+  ('django.forms.fields',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\forms\\fields.py',
+   'PYMODULE'),
+  ('django.forms.boundfield',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\forms\\boundfield.py',
+   'PYMODULE'),
+  ('django.db.models.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\base.py',
+   'PYMODULE'),
+  ('django.db.models.query',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\query.py',
+   'PYMODULE'),
+  ('django.db.models.manager',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\manager.py',
+   'PYMODULE'),
+  ('django.db.models.indexes',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\indexes.py',
+   'PYMODULE'),
+  ('django.db.models.fields.proxy',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\fields\\proxy.py',
+   'PYMODULE'),
+  ('django.db.models.fields.json',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\fields\\json.py',
+   'PYMODULE'),
+  ('django.db.models.fields.files',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\fields\\files.py',
+   'PYMODULE'),
+  ('django.core.files.images',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\files\\images.py',
+   'PYMODULE'),
+  ('django.db.models.expressions',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\expressions.py',
+   'PYMODULE'),
+  ('django.db.models.enums',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\enums.py',
+   'PYMODULE'),
+  ('django.db.models.deletion',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\deletion.py',
+   'PYMODULE'),
+  ('django.db.models.constraints',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\constraints.py',
+   'PYMODULE'),
+  ('django.db.models.aggregates',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\aggregates.py',
+   'PYMODULE'),
+  ('django.db.models.fields',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\fields\\__init__.py',
+   'PYMODULE'),
+  ('django.db.models.sql',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\sql\\__init__.py',
+   'PYMODULE'),
+  ('django.db.models.lookups',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\lookups.py',
+   'PYMODULE'),
+  ('django.db.models.query_utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\query_utils.py',
+   'PYMODULE'),
+  ('django.db.models.signals',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\models\\signals.py',
+   'PYMODULE'),
+  ('django.db',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\__init__.py',
+   'PYMODULE'),
+  ('django.core.serializers.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\serializers\\base.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uuid.py',
+   'PYMODULE'),
+  ('html.parser',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\parser.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_markupbase.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('django.utils.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\formats.py',
+   'PYMODULE'),
+  ('django.template.context',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\context.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ast.py',
+   'PYMODULE'),
+  ('django.utils.translation.trans_null',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\translation\\trans_null.py',
+   'PYMODULE'),
+  ('django.utils.translation.reloader',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\translation\\reloader.py',
+   'PYMODULE'),
+  ('django.utils.translation.trans_real',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\translation\\trans_real.py',
+   'PYMODULE'),
+  ('django.utils.regex_helper',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\regex_helper.py',
+   'PYMODULE'),
+  ('django.utils.ipv6',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\ipv6.py',
+   'PYMODULE'),
+  ('django.utils.deconstruct',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\deconstruct.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('django.core.checks',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\checks\\__init__.py',
+   'PYMODULE'),
+  ('django.core.checks.urls',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\checks\\urls.py',
+   'PYMODULE'),
+  ('django.core.checks.translation',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\checks\\translation.py',
+   'PYMODULE'),
+  ('django.core.checks.templates',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\checks\\templates.py',
+   'PYMODULE'),
+  ('django.core.checks.security.sessions',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\checks\\security\\sessions.py',
+   'PYMODULE'),
+  ('django.core.checks.security',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\checks\\security\\__init__.py',
+   'PYMODULE'),
+  ('django.core.checks.security.csrf',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\checks\\security\\csrf.py',
+   'PYMODULE'),
+  ('django.core.checks.security.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\checks\\security\\base.py',
+   'PYMODULE'),
+  ('django.core.checks.database',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\checks\\database.py',
+   'PYMODULE'),
+  ('django.core.checks.caches',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\checks\\caches.py',
+   'PYMODULE'),
+  ('django.core.cache.backends.filebased',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\cache\\backends\\filebased.py',
+   'PYMODULE'),
+  ('django.core.cache.backends',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\cache\\backends\\__init__.py',
+   'PYMODULE'),
+  ('django.core.cache.backends.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\cache\\backends\\base.py',
+   'PYMODULE'),
+  ('django.core.cache',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\cache\\__init__.py',
+   'PYMODULE'),
+  ('django.core.cache.backends.dummy',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\cache\\backends\\dummy.py',
+   'PYMODULE'),
+  ('django.core.cache.backends.db',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\cache\\backends\\db.py',
+   'PYMODULE'),
+  ('django.core.cache.backends.locmem',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\cache\\backends\\locmem.py',
+   'PYMODULE'),
+  ('django.core.cache.backends.memcached',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\cache\\backends\\memcached.py',
+   'PYMODULE'),
+  ('django.core.checks.async_checks',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\checks\\async_checks.py',
+   'PYMODULE'),
+  ('django.core.checks.registry',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\checks\\registry.py',
+   'PYMODULE'),
+  ('django.utils.inspect',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\inspect.py',
+   'PYMODULE'),
+  ('django.core.checks.messages',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\checks\\messages.py',
+   'PYMODULE'),
+  ('django.core.signing',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\signing.py',
+   'PYMODULE'),
+  ('logging.config',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\logging\\config.py',
+   'PYMODULE'),
+  ('logging.handlers',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\logging\\handlers.py',
+   'PYMODULE'),
+  ('smtplib',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\smtplib.py',
+   'PYMODULE'),
+  ('django.utils.http',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\http.py',
+   'PYMODULE'),
+  ('django.utils.crypto',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\crypto.py',
+   'PYMODULE'),
+  ('django.utils.cache',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\cache.py',
+   'PYMODULE'),
+  ('django.middleware',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\middleware\\__init__.py',
+   'PYMODULE'),
+  ('django.template.loader',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\loader.py',
+   'PYMODULE'),
+  ('django.template',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\__init__.py',
+   'PYMODULE'),
+  ('django.template.autoreload',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\autoreload.py',
+   'PYMODULE'),
+  ('django.http',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\http\\__init__.py',
+   'PYMODULE'),
+  ('django.http.response',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\http\\response.py',
+   'PYMODULE'),
+  ('django.http.request',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\http\\request.py',
+   'PYMODULE'),
+  ('django.http.multipartparser',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\http\\multipartparser.py',
+   'PYMODULE'),
+  ('cgi',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\cgi.py',
+   'PYMODULE'),
+  ('django.http.cookie',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\http\\cookie.py',
+   'PYMODULE'),
+  ('django.views',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\views\\__init__.py',
+   'PYMODULE'),
+  ('django.views.debug',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\views\\debug.py',
+   'PYMODULE'),
+  ('django.template.defaultfilters',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\defaultfilters.py',
+   'PYMODULE'),
+  ('django.utils.timesince',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\timesince.py',
+   'PYMODULE'),
+  ('django.views.generic.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\views\\generic\\base.py',
+   'PYMODULE'),
+  ('django.views.generic',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\views\\generic\\__init__.py',
+   'PYMODULE'),
+  ('django.views.generic.list',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\views\\generic\\list.py',
+   'PYMODULE'),
+  ('django.core.paginator',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\paginator.py',
+   'PYMODULE'),
+  ('django.views.generic.edit',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\views\\generic\\edit.py',
+   'PYMODULE'),
+  ('django.views.generic.detail',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\views\\generic\\detail.py',
+   'PYMODULE'),
+  ('django.views.generic.dates',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\views\\generic\\dates.py',
+   'PYMODULE'),
+  ('django.template.response',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\response.py',
+   'PYMODULE'),
+  ('django.utils.deprecation',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\deprecation.py',
+   'PYMODULE'),
+  ('asgiref.sync',
+   'f:\\project class\\accountancy\\venv\\lib\\site-packages\\asgiref\\sync.py',
+   'PYMODULE'),
+  ('asgiref',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\asgiref\\__init__.py',
+   'PYMODULE'),
+  ('asgiref.current_thread_executor',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\asgiref\\current_thread_executor.py',
+   'PYMODULE'),
+  ('django.core.exceptions',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\exceptions.py',
+   'PYMODULE'),
+  ('django.conf.global_settings',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\global_settings.py',
+   'PYMODULE'),
+  ('asgiref.local',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\asgiref\\local.py',
+   'PYMODULE'),
+  ('pytz',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\pytz\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._typing',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_typing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('imp',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\imp.py',
+   'PYMODULE'),
+  ('pytz.tzfile',
+   'f:\\project class\\accountancy\\venv\\lib\\site-packages\\pytz\\tzfile.py',
+   'PYMODULE'),
+  ('pytz.tzinfo',
+   'f:\\project class\\accountancy\\venv\\lib\\site-packages\\pytz\\tzinfo.py',
+   'PYMODULE'),
+  ('pytz.lazy',
+   'f:\\project class\\accountancy\\venv\\lib\\site-packages\\pytz\\lazy.py',
+   'PYMODULE'),
+  ('pytz.exceptions',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\pytz\\exceptions.py',
+   'PYMODULE'),
+  ('django.utils.encoding',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\encoding.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('django.utils.archive',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\archive.py',
+   'PYMODULE'),
+  ('django.utils.termcolors',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\termcolors.py',
+   'PYMODULE'),
+  ('django.utils.baseconv',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\baseconv.py',
+   'PYMODULE'),
+  ('django.utils.tree',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\tree.py',
+   'PYMODULE'),
+  ('django.utils.numberformat',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\numberformat.py',
+   'PYMODULE'),
+  ('django.utils.datetime_safe',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\datetime_safe.py',
+   'PYMODULE'),
+  ('django.utils.dateformat',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\dateformat.py',
+   'PYMODULE'),
+  ('django.urls',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\urls\\__init__.py',
+   'PYMODULE'),
+  ('django.urls.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\urls\\utils.py',
+   'PYMODULE'),
+  ('django.urls.resolvers',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\urls\\resolvers.py',
+   'PYMODULE'),
+  ('django.urls.exceptions',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\urls\\exceptions.py',
+   'PYMODULE'),
+  ('django.urls.converters',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\urls\\converters.py',
+   'PYMODULE'),
+  ('django.urls.conf',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\urls\\conf.py',
+   'PYMODULE'),
+  ('django.urls.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\urls\\base.py',
+   'PYMODULE'),
+  ('django.utils.version',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\version.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('django.utils.functional',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\functional.py',
+   'PYMODULE'),
+  ('django.dispatch',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\dispatch\\__init__.py',
+   'PYMODULE'),
+  ('django.dispatch.dispatcher',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\dispatch\\dispatcher.py',
+   'PYMODULE'),
+  ('django.core.signals',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\signals.py',
+   'PYMODULE'),
+  ('django.apps',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\apps\\__init__.py',
+   'PYMODULE'),
+  ('django',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\__init__.py',
+   'PYMODULE'),
+  ('Accountancy.wsgi',
+   'F:\\Project Class\\Accountancy\\Accountancy\\wsgi.py',
+   'PYMODULE'),
+  ('Accountancy',
+   'F:\\Project Class\\Accountancy\\Accountancy\\__init__.py',
+   'PYMODULE'),
+  ('Accountancy.settings',
+   'F:\\Project Class\\Accountancy\\Accountancy\\settings.py',
+   'PYMODULE'),
+  ('Accountancy.urls',
+   'F:\\Project Class\\Accountancy\\Accountancy\\urls.py',
+   'PYMODULE'),
+  ('app.views', 'F:\\Project Class\\Accountancy\\app\\views.py', 'PYMODULE'),
+  ('app.models', 'F:\\Project Class\\Accountancy\\app\\models.py', 'PYMODULE'),
+  ('app', 'F:\\Project Class\\Accountancy\\app\\__init__.py', 'PYMODULE'),
+  ('django.contrib.messages.views',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\messages\\views.py',
+   'PYMODULE'),
+  ('django.conf.locale.tk.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\tk\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.sl',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\sl\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.ml.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ml\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.lv',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\lv\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.auth.models',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\models.py',
+   'PYMODULE'),
+  ('django.contrib.admin.views.decorators',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\views\\decorators.py',
+   'PYMODULE'),
+  ('django.contrib.sessions.backends.cached_db',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sessions\\backends\\cached_db.py',
+   'PYMODULE'),
+  ('django.core.management.commands.compilemessages',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\commands\\compilemessages.py',
+   'PYMODULE'),
+  ('django.core.mail.backends.filebased',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\mail\\backends\\filebased.py',
+   'PYMODULE'),
+  ('django.contrib.staticfiles.finders',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\staticfiles\\finders.py',
+   'PYMODULE'),
+  ('django.conf.locale.lt.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\lt\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.auth.migrations.0012_alter_user_first_name_max_length',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\migrations\\0012_alter_user_first_name_max_length.py',
+   'PYMODULE'),
+  ('django.contrib.sessions.migrations.0001_initial',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sessions\\migrations\\0001_initial.py',
+   'PYMODULE'),
+  ('django.conf.locale.tr.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\tr\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.en_AU',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\en_AU\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.ka.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ka\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.bg',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\bg\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.en_AU.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\en_AU\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.sites.migrations.0002_alter_domain_unique',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sites\\migrations\\0002_alter_domain_unique.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.postgis.operations',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\postgis\\operations.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.prototypes.io',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geos\\prototypes\\io.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.prototypes',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geos\\prototypes\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.prototypes.prepared',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geos\\prototypes\\prepared.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.prototypes.topology',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geos\\prototypes\\topology.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.prototypes.predicates',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geos\\prototypes\\predicates.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.prototypes.misc',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geos\\prototypes\\misc.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.prototypes.coordseq',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geos\\prototypes\\coordseq.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.polygon',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geos\\polygon.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.linestring',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geos\\linestring.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.point',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geos\\point.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.error',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geos\\error.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.coordseq',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geos\\coordseq.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.prototypes.geom',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geos\\prototypes\\geom.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.prototypes.errcheck',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geos\\prototypes\\errcheck.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.libgeos',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geos\\libgeos.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.prototypes.threadsafe',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geos\\prototypes\\threadsafe.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geos\\base.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.geometry',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geos\\geometry.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.collections',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geos\\collections.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.prepared',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geos\\prepared.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.mutable_list',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geos\\mutable_list.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.base.features',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\base\\features.py',
+   'PYMODULE'),
+  ('django.core.management.commands.createcachetable',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\commands\\createcachetable.py',
+   'PYMODULE'),
+  ('django.conf.locale.he.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\he\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.gl',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\gl\\__init__.py',
+   'PYMODULE'),
+  ('django.template.loaders.locmem',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\loaders\\locmem.py',
+   'PYMODULE'),
+  ('django.core.handlers.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\handlers\\base.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.postgis.pgraster',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\postgis\\pgraster.py',
+   'PYMODULE'),
+  ('django.contrib.gis.shortcuts',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\shortcuts.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\utils.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.validators',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\validators.py',
+   'PYMODULE'),
+  ('django.contrib.gis.serializers',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\serializers\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.fa',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\fa\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\utils.py',
+   'PYMODULE'),
+  ('django.core.checks.compatibility',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\checks\\compatibility\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.base.operations',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\base\\operations.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.models.functions',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\models\\functions.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.models.sql',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\models\\sql\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.models.sql.conversion',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\models\\sql\\conversion.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.models.fields',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\models\\fields.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.models.lookups',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\models\\lookups.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.error',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\gdal\\error.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.models.proxy',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\models\\proxy.py',
+   'PYMODULE'),
+  ('django.conf.locale.sr_Latn.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\sr_Latn\\formats.py',
+   'PYMODULE'),
+  ('django.core.management.sql',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\sql.py',
+   'PYMODULE'),
+  ('django.conf.locale.kn',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\kn\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.mysql',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\mysql\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.th.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\th\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.gis.sitemaps',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\sitemaps\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.sitemaps.kml',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\sitemaps\\kml.py',
+   'PYMODULE'),
+  ('django.test.html',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\test\\html.py',
+   'PYMODULE'),
+  ('django.conf.locale.pt_BR.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\pt_BR\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.sites.checks',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sites\\checks.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.base.models',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\base\\models.py',
+   'PYMODULE'),
+  ('django.contrib.gis.management.commands.inspectdb',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\management\\commands\\inspectdb.py',
+   'PYMODULE'),
+  ('django.template.backends.dummy',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\backends\\dummy.py',
+   'PYMODULE'),
+  ('django.contrib.admin.checks',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\checks.py',
+   'PYMODULE'),
+  ('django.core.serializers.xml_serializer',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\serializers\\xml_serializer.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.ar.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ar\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.sq.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\sq\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.sessions.apps',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sessions\\apps.py',
+   'PYMODULE'),
+  ('django.conf.locale.fi',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\fi\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.mysql.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\mysql\\base.py',
+   'PYMODULE'),
+  ('django.conf.locale.pt_BR',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\pt_BR\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.auth.management',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\management\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\contenttypes\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.es_MX.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\es_MX\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.auth.management.commands.createsuperuser',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\management\\commands\\createsuperuser.py',
+   'PYMODULE'),
+  ('django.core.management.commands.dbshell',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\commands\\dbshell.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geoip2.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geoip2\\base.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geos\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.io',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geos\\io.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.factory',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geos\\factory.py',
+   'PYMODULE'),
+  ('django.conf.locale.es_AR',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\es_AR\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.sites.models',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sites\\models.py',
+   'PYMODULE'),
+  ('django.contrib.admin.exceptions',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\exceptions.py',
+   'PYMODULE'),
+  ('django.conf.locale.de_CH',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\de_CH\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.spatialite.schema',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\spatialite\\schema.py',
+   'PYMODULE'),
+  ('django.core.serializers.jsonl',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\serializers\\jsonl.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.apps',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\apps.py',
+   'PYMODULE'),
+  ('django.core.management.commands.dumpdata',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\commands\\dumpdata.py',
+   'PYMODULE'),
+  ('django.conf.locale.de_CH.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\de_CH\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.admin.helpers',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\helpers.py',
+   'PYMODULE'),
+  ('django.contrib.auth.mixins',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\mixins.py',
+   'PYMODULE'),
+  ('django.conf.locale.vi.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\vi\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes.migrations.0002_remove_content_type_name',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\contenttypes\\migrations\\0002_remove_content_type_name.py',
+   'PYMODULE'),
+  ('django.views.decorators.debug',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\views\\decorators\\debug.py',
+   'PYMODULE'),
+  ('django.contrib.auth.migrations.0002_alter_permission_name_max_length',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\migrations\\0002_alter_permission_name_max_length.py',
+   'PYMODULE'),
+  ('django.core.management.commands.loaddata',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\commands\\loaddata.py',
+   'PYMODULE'),
+  ('django.conf.locale.zh_Hans.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\zh_Hans\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.postgis.models',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\postgis\\models.py',
+   'PYMODULE'),
+  ('django.conf.locale.az.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\az\\formats.py',
+   'PYMODULE'),
+  ('django.core.management.commands.sqlflush',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\commands\\sqlflush.py',
+   'PYMODULE'),
+  ('django.conf.locale.zh_Hant',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\zh_Hant\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.models',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\models\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.models.aggregates',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\models\\aggregates.py',
+   'PYMODULE'),
+  ('django.contrib.redirects',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\redirects\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.operations',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\operations.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.serializers',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\serializers.py',
+   'PYMODULE'),
+  ('django.contrib.auth.signals',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\signals.py',
+   'PYMODULE'),
+  ('django.contrib.auth.migrations.0011_update_proxy_permissions',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\migrations\\0011_update_proxy_permissions.py',
+   'PYMODULE'),
+  ('django.contrib.admin.templatetags.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\templatetags\\base.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes.migrations',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\contenttypes\\migrations\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages.models',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\flatpages\\models.py',
+   'PYMODULE'),
+  ('django.conf.locale.tg.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\tg\\formats.py',
+   'PYMODULE'),
+  ('django.middleware.gzip',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\middleware\\gzip.py',
+   'PYMODULE'),
+  ('django.conf.locale.sk',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\sk\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.uz',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\uz\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.management',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\management\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.spatialite.adapter',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\spatialite\\adapter.py',
+   'PYMODULE'),
+  ('django.core.cache.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\cache\\utils.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages.urls',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\flatpages\\urls.py',
+   'PYMODULE'),
+  ('django.contrib.messages.storage.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\messages\\storage\\base.py',
+   'PYMODULE'),
+  ('django.contrib.messages.middleware',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\messages\\middleware.py',
+   'PYMODULE'),
+  ('django.conf.locale.zh_Hant.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\zh_Hant\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.km',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\km\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admindocs.middleware',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admindocs\\middleware.py',
+   'PYMODULE'),
+  ('django.contrib.redirects.middleware',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\redirects\\middleware.py',
+   'PYMODULE'),
+  ('django.conf.locale.uz.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\uz\\formats.py',
+   'PYMODULE'),
+  ('django.core.management.commands.startapp',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\commands\\startapp.py',
+   'PYMODULE'),
+  ('django.conf.locale.nb',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\nb\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.redirects.migrations',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\redirects\\migrations\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admin.apps',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\apps.py',
+   'PYMODULE'),
+  ('django.contrib.auth.views',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\views.py',
+   'PYMODULE'),
+  ('django.contrib.sessions.management',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sessions\\management\\__init__.py',
+   'PYMODULE'),
+  ('django.core.management.commands.showmigrations',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\commands\\showmigrations.py',
+   'PYMODULE'),
+  ('django.core.mail.backends.smtp',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\mail\\backends\\smtp.py',
+   'PYMODULE'),
+  ('django.conf.locale.en_GB.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\en_GB\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.gl.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\gl\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes.checks',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\contenttypes\\checks.py',
+   'PYMODULE'),
+  ('django.conf.locale.eo.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\eo\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.gis.serializers.geojson',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\serializers\\geojson.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages.migrations.0001_initial',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\flatpages\\migrations\\0001_initial.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\gdal\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.srs',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\gdal\\srs.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.prototypes.srs',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\gdal\\prototypes\\srs.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.prototypes.generation',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\gdal\\prototypes\\generation.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.prototypes.errcheck',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\gdal\\prototypes\\errcheck.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.prototypes',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\gdal\\prototypes\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.prototypes.geom',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\gdal\\prototypes\\geom.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.prototypes.raster',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\gdal\\prototypes\\raster.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.prototypes.ds',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\gdal\\prototypes\\ds.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\gdal\\base.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.raster.source',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\gdal\\raster\\source.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.raster',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\gdal\\raster\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.raster.const',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\gdal\\raster\\const.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.raster.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\gdal\\raster\\base.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.raster.band',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\gdal\\raster\\band.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.libgdal',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\gdal\\libgdal.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.geomtype',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\gdal\\geomtype.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.geometries',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\gdal\\geometries.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.envelope',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\gdal\\envelope.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.driver',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\gdal\\driver.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.datasource',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\gdal\\datasource.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.layer',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\gdal\\layer.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.field',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\gdal\\field.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.feature',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\gdal\\feature.py',
+   'PYMODULE'),
+  ('django.conf.locale.ja.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ja\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.pt.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\pt\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.fr.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\fr\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.auth.hashers',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\hashers.py',
+   'PYMODULE'),
+  ('django.conf.locale.hi.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\hi\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.is.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\is\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.ko',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ko\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages.apps',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\flatpages\\apps.py',
+   'PYMODULE'),
+  ('django.views.csrf',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\views\\csrf.py',
+   'PYMODULE'),
+  ('django.conf.locale.pt',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\pt\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geoip2.resources',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geoip2\\resources.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes.apps',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\contenttypes\\apps.py',
+   'PYMODULE'),
+  ('django.contrib.auth.migrations.0010_alter_group_name_max_length',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\migrations\\0010_alter_group_name_max_length.py',
+   'PYMODULE'),
+  ('django.core.management.commands.squashmigrations',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\commands\\squashmigrations.py',
+   'PYMODULE'),
+  ('django.contrib.sessions.backends.cache',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sessions\\backends\\cache.py',
+   'PYMODULE'),
+  ('django.core.management.commands.flush',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\commands\\flush.py',
+   'PYMODULE'),
+  ('django.contrib.staticfiles.management.commands.collectstatic',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\staticfiles\\management\\commands\\collectstatic.py',
+   'PYMODULE'),
+  ('django.conf.locale.da.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\da\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.staticfiles.views',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\staticfiles\\views.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.oracle.features',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\oracle\\features.py',
+   'PYMODULE'),
+  ('django.contrib.admin.views.autocomplete',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\views\\autocomplete.py',
+   'PYMODULE'),
+  ('django.utils.lorem_ipsum',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\lorem_ipsum.py',
+   'PYMODULE'),
+  ('django.test.client',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\test\\client.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\base\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.syndication',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\syndication\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.sessions.management.commands',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sessions\\management\\commands\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.sites.managers',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sites\\managers.py',
+   'PYMODULE'),
+  ('django.core.handlers.asgi',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\handlers\\asgi.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes.views',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\contenttypes\\views.py',
+   'PYMODULE'),
+  ('django.core.management.commands.sqlsequencereset',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\commands\\sqlsequencereset.py',
+   'PYMODULE'),
+  ('django.contrib.auth.migrations.0006_require_contenttypes_0002',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\migrations\\0006_require_contenttypes_0002.py',
+   'PYMODULE'),
+  ('django.conf.locale.sl.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\sl\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.oracle.operations',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\oracle\\operations.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.functions',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\functions.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages.templatetags',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\flatpages\\templatetags\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admindocs.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admindocs\\utils.py',
+   'PYMODULE'),
+  ('django.conf.locale.es_CO.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\es_CO\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geometry',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geometry.py',
+   'PYMODULE'),
+  ('django.core.mail.backends',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\mail\\backends\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.hi',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\hi\\__init__.py',
+   'PYMODULE'),
+  ('django.templatetags.i18n',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\templatetags\\i18n.py',
+   'PYMODULE'),
+  ('django.contrib.admin.templatetags.log',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\templatetags\\log.py',
+   'PYMODULE'),
+  ('django.contrib.admin.decorators',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\decorators.py',
+   'PYMODULE'),
+  ('django.contrib.sessions.backends.file',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sessions\\backends\\file.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.lookups',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\lookups.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.signals',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\signals.py',
+   'PYMODULE'),
+  ('django.contrib.sitemaps',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sitemaps\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.staticfiles.urls',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\staticfiles\\urls.py',
+   'PYMODULE'),
+  ('django.contrib.admin.migrations',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\migrations\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admin.widgets',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\widgets.py',
+   'PYMODULE'),
+  ('django.contrib.gis.ptr',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\ptr.py',
+   'PYMODULE'),
+  ('django.contrib.sessions.base_session',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sessions\\base_session.py',
+   'PYMODULE'),
+  ('django.contrib.auth.migrations.0009_alter_user_last_name_max_length',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\migrations\\0009_alter_user_last_name_max_length.py',
+   'PYMODULE'),
+  ('django.contrib.auth.urls',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\urls.py',
+   'PYMODULE'),
+  ('django.contrib.messages.apps',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\messages\\apps.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.spatialite.client',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\spatialite\\client.py',
+   'PYMODULE'),
+  ('django.conf.locale.fy.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\fy\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.es_PR',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\es_PR\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.auth.tokens',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\tokens.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.aggregates',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\aggregates\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.aggregates.statistics',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\aggregates\\statistics.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.aggregates.general',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\aggregates\\general.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.aggregates.mixins',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\aggregates\\mixins.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\flatpages\\__init__.py',
+   'PYMODULE'),
+  ('django.db.migrations.writer',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\migrations\\writer.py',
+   'PYMODULE'),
+  ('django.contrib.messages.storage.fallback',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\messages\\storage\\fallback.py',
+   'PYMODULE'),
+  ('django.views.static',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\views\\static.py',
+   'PYMODULE'),
+  ('django.contrib.admin.templatetags',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\templatetags\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.sites.migrations.0001_initial',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sites\\migrations\\0001_initial.py',
+   'PYMODULE'),
+  ('django.template.loaders.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\loaders\\base.py',
+   'PYMODULE'),
+  ('django.contrib.gis',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages.forms',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\flatpages\\forms.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes.fields',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\contenttypes\\fields.py',
+   'PYMODULE'),
+  ('django.contrib.admin.templatetags.admin_urls',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\templatetags\\admin_urls.py',
+   'PYMODULE'),
+  ('django.contrib.admin.migrations.0002_logentry_remove_auto_add',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\migrations\\0002_logentry_remove_auto_add.py',
+   'PYMODULE'),
+  ('django.conf.locale.sr.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\sr\\formats.py',
+   'PYMODULE'),
+  ('django.templatetags.cache',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\templatetags\\cache.py',
+   'PYMODULE'),
+  ('django.contrib.auth.forms',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\forms.py',
+   'PYMODULE'),
+  ('django.conf.locale.az',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\az\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.auth.migrations.0004_alter_user_username_opts',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\migrations\\0004_alter_user_username_opts.py',
+   'PYMODULE'),
+  ('django.conf.locale.mn.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\mn\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.id.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\id\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.admin.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\utils.py',
+   'PYMODULE'),
+  ('django.core.management.commands.migrate',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\commands\\migrate.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages.templatetags.flatpages',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\flatpages\\templatetags\\flatpages.py',
+   'PYMODULE'),
+  ('django.contrib.redirects.migrations.0001_initial',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\redirects\\migrations\\0001_initial.py',
+   'PYMODULE'),
+  ('django.contrib.sitemaps.management.commands',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sitemaps\\management\\commands\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes.migrations.0001_initial',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\contenttypes\\migrations\\0001_initial.py',
+   'PYMODULE'),
+  ('django.conf.locale.mn',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\mn\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.auth.context_processors',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\context_processors.py',
+   'PYMODULE'),
+  ('django.contrib.auth.apps',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\apps.py',
+   'PYMODULE'),
+  ('django.views.decorators.common',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\views\\decorators\\common.py',
+   'PYMODULE'),
+  ('django.db.migrations.questioner',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\migrations\\questioner.py',
+   'PYMODULE'),
+  ('django.core.serializers.pyyaml',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\serializers\\pyyaml.py',
+   'PYMODULE'),
+  ('django.contrib.humanize.templatetags.humanize',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\humanize\\templatetags\\humanize.py',
+   'PYMODULE'),
+  ('django.conf.locale.da',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\da\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.hr.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\hr\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.base.adapter',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\base\\adapter.py',
+   'PYMODULE'),
+  ('django.conf.locale.te',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\te\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.es_PR.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\es_PR\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.sk.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\sk\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.postgis.schema',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\postgis\\schema.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geoip2',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\geoip2\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.oracle',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\oracle\\__init__.py',
+   'PYMODULE'),
+  ('django.__main__',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\__main__.py',
+   'PYMODULE'),
+  ('django.conf.locale.sr_Latn',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\sr_Latn\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.th',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\th\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admin.tests',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\tests.py',
+   'PYMODULE'),
+  ('django.conf.locale.ca',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ca\\__init__.py',
+   'PYMODULE'),
+  ('django.views.i18n',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\views\\i18n.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.postgis.const',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\postgis\\const.py',
+   'PYMODULE'),
+  ('django.contrib.sites.management',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sites\\management.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes.admin',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\contenttypes\\admin.py',
+   'PYMODULE'),
+  ('django.conf.locale.hr',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\hr\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.fa.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\fa\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.humanize.apps',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\humanize\\apps.py',
+   'PYMODULE'),
+  ('django.conf.locale.bn.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\bn\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.sites.apps',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sites\\apps.py',
+   'PYMODULE'),
+  ('django.conf.locale.ta',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ta\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.sq',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\sq\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.forms',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\forms\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.forms.widgets',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\forms\\widgets.py',
+   'PYMODULE'),
+  ('django.contrib.gis.forms.fields',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\forms\\fields.py',
+   'PYMODULE'),
+  ('django.template.context_processors',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\context_processors.py',
+   'PYMODULE'),
+  ('django.contrib.gis.feeds',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\feeds.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admin.templatetags.admin_modify',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\templatetags\\admin_modify.py',
+   'PYMODULE'),
+  ('django.contrib.messages.storage.session',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\messages\\storage\\session.py',
+   'PYMODULE'),
+  ('django.conf.locale.he',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\he\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.auth.migrations.0001_initial',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\migrations\\0001_initial.py',
+   'PYMODULE'),
+  ('django.contrib.sites.admin',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sites\\admin.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.mysql.schema',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\mysql\\schema.py',
+   'PYMODULE'),
+  ('django.conf.locale.es.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\es\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.sites.shortcuts',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sites\\shortcuts.py',
+   'PYMODULE'),
+  ('django.core.management.commands.makemigrations',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\commands\\makemigrations.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.postgis.adapter',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\postgis\\adapter.py',
+   'PYMODULE'),
+  ('django.conf.locale.ml',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ml\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.it.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\it\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.es_CO',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\es_CO\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages.migrations',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\flatpages\\migrations\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.sites',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sites\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.spatialite.features',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\spatialite\\features.py',
+   'PYMODULE'),
+  ('django.contrib.auth.decorators',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\decorators.py',
+   'PYMODULE'),
+  ('django.core.mail.backends.console',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\mail\\backends\\console.py',
+   'PYMODULE'),
+  ('django.template.loaders',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\loaders\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admin',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.nb.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\nb\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.bs',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\bs\\__init__.py',
+   'PYMODULE'),
+  ('django.core.management.commands.makemessages',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\commands\\makemessages.py',
+   'PYMODULE'),
+  ('django.conf.locale.gd.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\gd\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.admin.migrations.0003_logentry_add_action_flag_choices',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\migrations\\0003_logentry_add_action_flag_choices.py',
+   'PYMODULE'),
+  ('django.views.decorators.vary',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\views\\decorators\\vary.py',
+   'PYMODULE'),
+  ('django.core.management.commands.diffsettings',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\commands\\diffsettings.py',
+   'PYMODULE'),
+  ('django.views.decorators.http',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\views\\decorators\\http.py',
+   'PYMODULE'),
+  ('django.contrib.syndication.views',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\syndication\\views.py',
+   'PYMODULE'),
+  ('django.conf.locale.nl',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\nl\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admindocs.urls',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admindocs\\urls.py',
+   'PYMODULE'),
+  ('django.conf.locale.hu',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\hu\\__init__.py',
+   'PYMODULE'),
+  ('django.middleware.http',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\middleware\\http.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages.sitemaps',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\flatpages\\sitemaps.py',
+   'PYMODULE'),
+  ('django.contrib.auth.migrations.0003_alter_user_email_max_length',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\migrations\\0003_alter_user_email_max_length.py',
+   'PYMODULE'),
+  ('django.conf.locale.id',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\id\\__init__.py',
+   'PYMODULE'),
+  ('django.core.management.commands.runserver',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\commands\\runserver.py',
+   'PYMODULE'),
+  ('django.conf.locale.fr',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\fr\\__init__.py',
+   'PYMODULE'),
+  ('django.core.management.commands.inspectdb',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\commands\\inspectdb.py',
+   'PYMODULE'),
+  ('django.contrib.staticfiles.apps',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\staticfiles\\apps.py',
+   'PYMODULE'),
+  ('django.conf.locale.es',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\es\\__init__.py',
+   'PYMODULE'),
+  ('django.core.handlers.exception',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\handlers\\exception.py',
+   'PYMODULE'),
+  ('django.db.migrations.serializer',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\migrations\\serializer.py',
+   'PYMODULE'),
+  ('django.conf.locale.ar',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ar\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.ky',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ky\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.syndication.apps',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\syndication\\apps.py',
+   'PYMODULE'),
+  ('django.test.runner',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\test\\runner.py',
+   'PYMODULE'),
+  ('django.conf.locale.uk.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\uk\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.et.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\et\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.de',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\de\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.ig.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ig\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.gis.admin',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\admin\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.admin.widgets',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\admin\\widgets.py',
+   'PYMODULE'),
+  ('django.contrib.gis.admin.options',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\admin\\options.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.forms',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\forms\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.forms.ranges',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\forms\\ranges.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.forms.jsonb',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\forms\\jsonb.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.forms.hstore',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\forms\\hstore.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.forms.array',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\forms\\array.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.postgis.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\postgis\\base.py',
+   'PYMODULE'),
+  ('django.conf.locale.ig',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ig\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admindocs.apps',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admindocs\\apps.py',
+   'PYMODULE'),
+  ('django.contrib.messages.storage.cookie',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\messages\\storage\\cookie.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes.management',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\contenttypes\\management\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.pl.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\pl\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.bg.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\bg\\formats.py',
+   'PYMODULE'),
+  ('django.template.smartif',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\smartif.py',
+   'PYMODULE'),
+  ('django.contrib.redirects.admin',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\redirects\\admin.py',
+   'PYMODULE'),
+  ('django.conf.locale.el.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\el\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.staticfiles.management',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\staticfiles\\management\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.ar_DZ.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ar_DZ\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages.admin',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\flatpages\\admin.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes.forms',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\contenttypes\\forms.py',
+   'PYMODULE'),
+  ('django.test.testcases',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\test\\testcases.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.search',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\search.py',
+   'PYMODULE'),
+  ('django.conf.urls.i18n',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\urls\\i18n.py',
+   'PYMODULE'),
+  ('django.conf.locale.ky.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ky\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.management.commands.ogrinspect',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\management\\commands\\ogrinspect.py',
+   'PYMODULE'),
+  ('django.contrib.gis.utils.ogrinspect',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\utils\\ogrinspect.py',
+   'PYMODULE'),
+  ('django.middleware.locale',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\middleware\\locale.py',
+   'PYMODULE'),
+  ('django.contrib.admin.filters',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\filters.py',
+   'PYMODULE'),
+  ('django.contrib.auth.migrations.0007_alter_validators_add_error_messages',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\migrations\\0007_alter_validators_add_error_messages.py',
+   'PYMODULE'),
+  ('django.conf.locale.ro.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ro\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.staticfiles.checks',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\staticfiles\\checks.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.constraints',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\constraints.py',
+   'PYMODULE'),
+  ('django.core.management.commands.shell',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\commands\\shell.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('django.core.management.commands.testserver',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\commands\\testserver.py',
+   'PYMODULE'),
+  ('django.contrib.sessions.backends.signed_cookies',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sessions\\backends\\signed_cookies.py',
+   'PYMODULE'),
+  ('django.contrib.auth.handlers',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\handlers\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.views',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\views.py',
+   'PYMODULE'),
+  ('django.contrib.sites.migrations',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sites\\migrations\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.nl.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\nl\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.et',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\et\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.eo',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\eo\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.auth.migrations.0008_alter_user_username_max_length',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\migrations\\0008_alter_user_username_max_length.py',
+   'PYMODULE'),
+  ('django.contrib.admin.views',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\views\\__init__.py',
+   'PYMODULE'),
+  ('django.core.management.commands.check',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\commands\\check.py',
+   'PYMODULE'),
+  ('django.conf.locale.tg',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\tg\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.de.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\de\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.ja',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ja\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.sv.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\sv\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.es_AR.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\es_AR\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.gis.measure',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\measure.py',
+   'PYMODULE'),
+  ('django.conf.locale.vi',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\vi\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.tr',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\tr\\__init__.py',
+   'PYMODULE'),
+  ('django.template.defaulttags',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\defaulttags.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages.views',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\flatpages\\views.py',
+   'PYMODULE'),
+  ('django.conf.locale.en',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\en\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.auth.migrations.0005_alter_user_last_login_null',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\migrations\\0005_alter_user_last_login_null.py',
+   'PYMODULE'),
+  ('django.db.migrations.autodetector',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\migrations\\autodetector.py',
+   'PYMODULE'),
+  ('django.conf.locale.fi.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\fi\\formats.py',
+   'PYMODULE'),
+  ('django.test',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\test\\__init__.py',
+   'PYMODULE'),
+  ('django.utils.jslex',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\utils\\jslex.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.oracle.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\oracle\\base.py',
+   'PYMODULE'),
+  ('django.conf.locale.pl',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\pl\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\utils\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.utils.layermapping',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\utils\\layermapping.py',
+   'PYMODULE'),
+  ('django.contrib.gis.utils.srs',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\utils\\srs.py',
+   'PYMODULE'),
+  ('django.contrib.gis.utils.ogrinfo',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\utils\\ogrinfo.py',
+   'PYMODULE'),
+  ('django.conf.locale.nn',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\nn\\__init__.py',
+   'PYMODULE'),
+  ('django.template.loaders.cached',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\loaders\\cached.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes.management.commands.remove_stale_contenttypes',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\contenttypes\\management\\commands\\remove_stale_contenttypes.py',
+   'PYMODULE'),
+  ('django.core.mail.backends.locmem',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\mail\\backends\\locmem.py',
+   'PYMODULE'),
+  ('django.conf.locale.it',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\it\\__init__.py',
+   'PYMODULE'),
+  ('django.core.wsgi',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\wsgi.py',
+   'PYMODULE'),
+  ('django.contrib.staticfiles.management.commands.findstatic',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\staticfiles\\management\\commands\\findstatic.py',
+   'PYMODULE'),
+  ('django.conf.locale.is',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\is\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.hu.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\hu\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.auth.middleware',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\middleware.py',
+   'PYMODULE'),
+  ('django.contrib.admin.migrations.0001_initial',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\migrations\\0001_initial.py',
+   'PYMODULE'),
+  ('django.conf.locale.el',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\el\\__init__.py',
+   'PYMODULE'),
+  ('django.core.management.commands.sendtestemail',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\commands\\sendtestemail.py',
+   'PYMODULE'),
+  ('django.conf.locale.ca.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ca\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.lt',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\lt\\__init__.py',
+   'PYMODULE'),
+  ('django.views.decorators.clickjacking',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\views\\decorators\\clickjacking.py',
+   'PYMODULE'),
+  ('django.conf.locale.km.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\km\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.humanize',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\humanize\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.oracle.introspection',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\oracle\\introspection.py',
+   'PYMODULE'),
+  ('django.conf.locale.ru',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ru\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.sitemaps.apps',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sitemaps\\apps.py',
+   'PYMODULE'),
+  ('django.contrib.auth.password_validation',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\password_validation.py',
+   'PYMODULE'),
+  ('django.middleware.security',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\middleware\\security.py',
+   'PYMODULE'),
+  ('django.contrib.humanize.templatetags',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\humanize\\templatetags\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admin.actions',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\actions.py',
+   'PYMODULE'),
+  ('django.contrib.admin.sites',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\sites.py',
+   'PYMODULE'),
+  ('django.template.loaders.app_directories',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\loaders\\app_directories.py',
+   'PYMODULE'),
+  ('django.conf.locale.te.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\te\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.admin.options',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\options.py',
+   'PYMODULE'),
+  ('django.core.management.templates',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\templates.py',
+   'PYMODULE'),
+  ('django.core.handlers',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\handlers\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.redirects.models',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\redirects\\models.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.mysql.features',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\mysql\\features.py',
+   'PYMODULE'),
+  ('django.contrib.admin.models',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\models.py',
+   'PYMODULE'),
+  ('django.conf.locale.ko.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ko\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.auth.admin',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\admin.py',
+   'PYMODULE'),
+  ('django.conf.locale.nn.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\nn\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.ar_DZ',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ar_DZ\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes.management.commands',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\contenttypes\\management\\commands\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.sitemaps.management',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sitemaps\\management\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.cy',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\cy\\__init__.py',
+   'PYMODULE'),
+  ('django.core.management.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\utils.py',
+   'PYMODULE'),
+  ('django.contrib.auth.migrations',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\migrations\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.postgis',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\postgis\\__init__.py',
+   'PYMODULE'),
+  ('django.core.management.commands.sqlmigrate',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\commands\\sqlmigrate.py',
+   'PYMODULE'),
+  ('django.shortcuts',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\shortcuts.py',
+   'PYMODULE'),
+  ('django.contrib.auth.checks',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\checks.py',
+   'PYMODULE'),
+  ('django.middleware.clickjacking',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\middleware\\clickjacking.py',
+   'PYMODULE'),
+  ('django.core.asgi',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\asgi.py',
+   'PYMODULE'),
+  ('django.contrib.staticfiles.management.commands',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\staticfiles\\management\\commands\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.es_NI.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\es_NI\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.staticfiles.testing',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\staticfiles\\testing.py',
+   'PYMODULE'),
+  ('django.contrib.auth.handlers.modwsgi',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\handlers\\modwsgi.py',
+   'PYMODULE'),
+  ('django.conf.locale.fy',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\fy\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.eu.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\eu\\formats.py',
+   'PYMODULE'),
+  ('django.core.servers',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\servers\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.spatialite.operations',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\spatialite\\operations.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.postgis.introspection',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\postgis\\introspection.py',
+   'PYMODULE'),
+  ('django.contrib.sessions.exceptions',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sessions\\exceptions.py',
+   'PYMODULE'),
+  ('django.conf.locale.cs.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\cs\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.postgis.features',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\postgis\\features.py',
+   'PYMODULE'),
+  ('django.conf.locale.zh_Hans',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\zh_Hans\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.sessions.backends.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sessions\\backends\\base.py',
+   'PYMODULE'),
+  ('django.conf.locale.sr',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\sr\\__init__.py',
+   'PYMODULE'),
+  ('django.middleware.cache',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\middleware\\cache.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes.models',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\contenttypes\\models.py',
+   'PYMODULE'),
+  ('django.contrib.auth.base_user',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\base_user.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.oracle.adapter',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\oracle\\adapter.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages.middleware',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\flatpages\\middleware.py',
+   'PYMODULE'),
+  ('django.contrib.admin.forms',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\forms.py',
+   'PYMODULE'),
+  ('django.contrib.sites.middleware',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sites\\middleware.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.oracle.schema',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\oracle\\schema.py',
+   'PYMODULE'),
+  ('django.core.mail.backends.dummy',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\mail\\backends\\dummy.py',
+   'PYMODULE'),
+  ('django.contrib.sessions.serializers',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sessions\\serializers.py',
+   'PYMODULE'),
+  ('django.contrib.sessions.management.commands.clearsessions',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sessions\\management\\commands\\clearsessions.py',
+   'PYMODULE'),
+  ('django.core.mail.backends.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\mail\\backends\\base.py',
+   'PYMODULE'),
+  ('django.contrib.gis.management.commands',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\management\\commands\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.bn',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\bn\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.ka',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ka\\__init__.py',
+   'PYMODULE'),
+  ('django.test.signals',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\test\\signals.py',
+   'PYMODULE'),
+  ('django.contrib.sitemaps.management.commands.ping_google',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sitemaps\\management\\commands\\ping_google.py',
+   'PYMODULE'),
+  ('django.contrib.sessions.backends.db',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sessions\\backends\\db.py',
+   'PYMODULE'),
+  ('django.contrib.redirects.apps',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\redirects\\apps.py',
+   'PYMODULE'),
+  ('django.contrib.messages.context_processors',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\messages\\context_processors.py',
+   'PYMODULE'),
+  ('django.contrib.auth.backends',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\backends.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.spatialite.introspection',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\spatialite\\introspection.py',
+   'PYMODULE'),
+  ('django.contrib.sessions.middleware',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sessions\\middleware.py',
+   'PYMODULE'),
+  ('django.contrib.admindocs',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admindocs\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.cy.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\cy\\formats.py',
+   'PYMODULE'),
+  ('django.core.management.commands',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\commands\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.ga',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ga\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.sessions',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sessions\\__init__.py',
+   'PYMODULE'),
+  ('django.core.management.commands.test',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\commands\\test.py',
+   'PYMODULE'),
+  ('django.contrib.sessions.backends',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sessions\\backends\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.cs',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\cs\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.postgres',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.staticfiles.management.commands.runserver',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\staticfiles\\management\\commands\\runserver.py',
+   'PYMODULE'),
+  ('django.core.handlers.wsgi',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\handlers\\wsgi.py',
+   'PYMODULE'),
+  ('django.conf.locale.mk.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\mk\\formats.py',
+   'PYMODULE'),
+  ('django.core.servers.basehttp',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\servers\\basehttp.py',
+   'PYMODULE'),
+  ('wsgiref.simple_server',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\wsgiref\\simple_server.py',
+   'PYMODULE'),
+  ('wsgiref.handlers',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\wsgiref\\handlers.py',
+   'PYMODULE'),
+  ('wsgiref.headers',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\wsgiref\\headers.py',
+   'PYMODULE'),
+  ('wsgiref.util',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\wsgiref\\util.py',
+   'PYMODULE'),
+  ('wsgiref',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\wsgiref\\__init__.py',
+   'PYMODULE'),
+  ('django.db.migrations.optimizer',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\migrations\\optimizer.py',
+   'PYMODULE'),
+  ('django.conf.locale.lv.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\lv\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.ta.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ta\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.eu',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\eu\\__init__.py',
+   'PYMODULE'),
+  ('django.templatetags.l10n',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\templatetags\\l10n.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.fields',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\fields\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.fields.ranges',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\fields\\ranges.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.fields.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\fields\\utils.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.fields.jsonb',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\fields\\jsonb.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.fields.hstore',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\fields\\hstore.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.fields.citext',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\fields\\citext.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.fields.array',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\fields\\array.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.mysql.introspection',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\mysql\\introspection.py',
+   'PYMODULE'),
+  ('django.contrib.auth.management.commands',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\management\\commands\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.ro',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ro\\__init__.py',
+   'PYMODULE'),
+  ('django.test.utils',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\test\\utils.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.spatialite',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\spatialite\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.spatialite.models',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\spatialite\\models.py',
+   'PYMODULE'),
+  ('django.conf.urls.static',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\urls\\static.py',
+   'PYMODULE'),
+  ('django.conf.locale.tk',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\tk\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.sessions.models',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sessions\\models.py',
+   'PYMODULE'),
+  ('django.contrib.sites.requests',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sites\\requests.py',
+   'PYMODULE'),
+  ('django.contrib.staticfiles.handlers',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\staticfiles\\handlers.py',
+   'PYMODULE'),
+  ('django.conf.locale.es_MX',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\es_MX\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.en_GB',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\en_GB\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.spatialite.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\spatialite\\base.py',
+   'PYMODULE'),
+  ('django.core.management.base',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\base.py',
+   'PYMODULE'),
+  ('django.db.migrations.executor',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\db\\migrations\\executor.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.oracle.models',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\oracle\\models.py',
+   'PYMODULE'),
+  ('django.test.selenium',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\test\\selenium.py',
+   'PYMODULE'),
+  ('django.contrib.admindocs.views',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admindocs\\views.py',
+   'PYMODULE'),
+  ('django.templatetags.tz',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\templatetags\\tz.py',
+   'PYMODULE'),
+  ('django.template.loaders.filesystem',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\loaders\\filesystem.py',
+   'PYMODULE'),
+  ('django.views.decorators.gzip',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\views\\decorators\\gzip.py',
+   'PYMODULE'),
+  ('django.core.management.commands.startproject',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\commands\\startproject.py',
+   'PYMODULE'),
+  ('django.contrib.redirects.migrations.0002_alter_redirect_new_path_help_text',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\redirects\\migrations\\0002_alter_redirect_new_path_help_text.py',
+   'PYMODULE'),
+  ('django.conf.locale.bs.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\bs\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.gd',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\gd\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admin.views.main',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\views\\main.py',
+   'PYMODULE'),
+  ('django.conf.locale.kn.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\kn\\formats.py',
+   'PYMODULE'),
+  ('django.views.decorators.cache',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\views\\decorators\\cache.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.backends.mysql.operations',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\db\\backends\\mysql\\operations.py',
+   'PYMODULE'),
+  ('django.contrib.auth.validators',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\validators.py',
+   'PYMODULE'),
+  ('django.conf.locale.mk',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\mk\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.es_NI',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\es_NI\\__init__.py',
+   'PYMODULE'),
+  ('django.middleware.common',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\middleware\\common.py',
+   'PYMODULE'),
+  ('django.contrib.auth',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.sitemaps.views',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sitemaps\\views.py',
+   'PYMODULE'),
+  ('django.conf.locale.ga.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ga\\formats.py',
+   'PYMODULE'),
+  ('django.template.loader_tags',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\template\\loader_tags.py',
+   'PYMODULE'),
+  ('django.contrib.postgres.indexes',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\postgres\\indexes.py',
+   'PYMODULE'),
+  ('django.conf.locale.sv',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\sv\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admin.templatetags.admin_list',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\admin\\templatetags\\admin_list.py',
+   'PYMODULE'),
+  ('django.contrib.gis.apps',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\gis\\apps.py',
+   'PYMODULE'),
+  ('django.conf.locale.en.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\en\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.auth.management.commands.changepassword',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\auth\\management\\commands\\changepassword.py',
+   'PYMODULE'),
+  ('django.contrib.sessions.migrations',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\contrib\\sessions\\migrations\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.uk',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\uk\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.ru.formats',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\conf\\locale\\ru\\formats.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\signal.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('django.core.management',
+   'f:\\project '
+   'class\\accountancy\\venv\\lib\\site-packages\\django\\core\\management\\__init__.py',
+   'PYMODULE'),
+  ('os',
+   'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python39\\lib\\os.py',
+   'PYMODULE')])

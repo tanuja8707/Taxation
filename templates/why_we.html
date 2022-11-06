@@ -1,0 +1,101 @@
+{% extends 'startercss.html' %}
+{% load static %}
+{% block menu %}
+<header>
+    <div class="about" style="background-color: #b1bfbd">
+        <ul class="about_ul">
+                <li class="about_mail">
+
+                    <i class="fa fa-envelope-o"></i>
+                    <a href="mailto:mitesh.hmf@gmail.com">info@harimani.in</a>
+                </li>
+                <li class="about_phone">
+                    <i class="fa fa-phone" aria-hidden="true"></i>
+                    <a href="">(+91) 8007722224</a>
+                </li>
+        </ul>
+        <div class="social">
+            <a href="https://www.facebook.com/" target="_blank" class="icon-fa-facebook-square">
+                <i class="fa fa-facebook-square"></i></a>
+{#            <a href="https://www.twitter.com/" target="_blank" class="icon-fa-twitter"><i class="fa fa-twitter"></i></a>#}
+            <a href="https://www.linkedin.com/" target="_blank" class="icon-fa-linkedin">
+                <i class="fa fa-linkedin"></i></a>
+            <a href="https://www.instagram.com/" target="_blank" class="icon-fa-instagram">
+                <i class="fa fa-instagram"></i></a>
+        </div>
+    </div>
+        {% include 'navbar.html' %}
+        <main>
+            <section>
+            {% include 'why_we_carousal.html' %}
+            <div class="about_whywe">
+                <div class="whywe_left">
+                    <div class="whywe_heading">
+                        <i class="fa fa-history" aria-hidden="true" style="font-size: 50px"></i>
+                        <p class="whywe_mainheading">
+                            About the Firm
+                        </p>
+                    </div>
+                    <p>
+                        HariMani Finserv is a single solution for Existing Business and startup Enterpreneurs.
+                        It is a Service Hub where we have team of Professionals and Associates like Chartered Accountants,
+                        Company Secretaries and Consultants with vast knowledge and experience, committed to provide
+                        consistent, customized and workable solution in the area of Business Registration, Accounting, Taxation,
+                        Auditing and Advisory Services. In the era of Digitization, we work on a model where using technology will
+                        make all verticals cost effective and environment friendly i.e. less paper work.
+
+                    </p>
+
+{#                    <div class="enquiry_address">#}
+{#                    <i class="fa fa-phone" aria-hidden="true" style="font-size: 50px"></i>#}
+{#                    <p class="address">#}
+{#                        Contact#}
+{#                    </p>#}
+{#                    </div>#}
+{#                    <p>#}
+{#                        (+91) 8007722224#}
+{#                    </p>#}
+                </div>
+                <div class="whywe_image">
+                    <img src="{% static 'images/WE_PROVIDE.png' %}" width="600px" height="450px" >
+                </div>
+            </div>
+            <div class="whywe_bottom_left">
+                <div class="whywe_bottomleft_content">
+                    <h3>Why HariMani?</h3>
+                    <table border="0" align="center">
+                        <tr>
+                            <th>Experienced Team</th>
+                            <td>
+                                Our Team has extensive experience of with total team strength of more than 10 professionals.
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Technology</th>
+                            <td>We are continuously working in a model, where we ensuring business compliance with less paper work.</td>
+                        </tr>
+                        <tr>
+                            <th>Confidentiality</th>
+                            <td>We are committed to ensure privacy and confidentiality of our clients. We are following strict standards on guarding client’s information to ensure that all information provided to us is kept safe and secure. We abide by our Confidentiality Policy and insist always on signing Non-Disclosure and confidentiality Agreement.</td>
+                        </tr>
+                        <tr>
+                            <th>Cost Effective</th>
+                            <td>We offer you high quality services at the most affordable prices. Offload your work on us and focus on your core strength. While we adopt the best practices and ensure highest accuracy, our services will cost only a fraction of your current cost. We can help you cut down on committed costs and still scale up your operations.</td>
+                        </tr>
+
+                    </table>
+                </div>
+
+
+            </div>
+                {% include 'footer.html' %}
+            </section>
+
+
+        </main>
+
+
+
+</header>
+
+{% endblock %}

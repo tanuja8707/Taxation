@@ -1,0 +1,77 @@
+
+<h3 style="text-align: center;margin: 30px ">Training Related Queries</h3>
+
+            <form action="{% url 'save_trainingQuery' %}" method="post" enctype="multipart/form-data">
+                {% csrf_token %}
+            <table class="career_table" align="center" border="0" width="350" style="height: 250px;margin: 0 150px">
+                <tr align="center">
+                    <th>
+                        {% if error %}
+                            <h5 style="color: red;"> {{ error }}</h5>
+                        {% else %}
+                            <h5 style="color: green;"> {{ data }}</h5>
+                        {% endif %}
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        <input type="text" name="p1" placeholder="Name" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" required pattern="[a-zA-Z- ]+" title="Enter Valid Name">
+                    </th>
+
+                </tr>
+                <tr>
+                    <th>
+                        <input type="email" name="p2" placeholder="Email" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" required>
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        <input type="tel" name="p3" placeholder="Contact" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" maxlength="10" required pattern="[6789][0-9]{9}" title="Enter Valid Contact Number">
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        <input type="text" name="p4" placeholder="Qualification" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" required>
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        <input type="date" name="p5" placeholder="Date Of Birth" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" required>
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        <input type="number" name="p6" placeholder="Experience" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" required>
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        <input type="text" name="p7" placeholder="designation" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" required>
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        <input type="file" name="p8" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" required>
+
+                    </th>
+                </tr>
+                <tr><th>                </th></tr>
+
+                <tr>
+                    <th>
+                        <button type="submit" class="btn btn-outline-primary">Enquiry</button>
+                    </th>
+
+                </tr>
+
+            </table>
+            </form>
+
+<style>
+    .career_table tr th input, select{
+        margin-bottom: 15px;
+    }
+    .career_table tr th button{
+        float: right;
+    }
+</style>

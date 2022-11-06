@@ -1,0 +1,76 @@
+{% load static %}
+<nav style="display: flex;" id="navbar">
+        <div class="logo">
+            <img src="{% static 'images/logo1-removebg.png' %}" height="90px" width="150"> <div><b>HariMani</b></div>
+{#            <h1>HariMani</h1>#}
+        </div>
+        <div class="menu">
+         <ul >
+           <li> <a href="{% url 'home_page' %}" style="color: #050763"><i class="fa fa-home" style="margin-right: 8px;"></i>Home</a></li>
+            <li><a href="{% url 'why_we' %}" style="color: #050763"><i class="fa fa-location-arrow" style="margin-right: 8px"></i>Why We</a></li>
+            <li><a  href="{% url 'services' %}" style="color: #050763" ><i class="fa fa-globe" style="margin-right: 8px"></i>Services</a>
+
+{#          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">#}
+{#            <li><a class="dropdown-item" href="#">Action</a></li>#}
+{#            <li><a class="dropdown-item" href="#">Another action</a></li>#}
+{#            <li><hr class="dropdown-divider"></li>#}
+{#            <li><a class="dropdown-item" href="#">Something else here</a></li>#}
+{#          </ul>#}
+        </li>
+
+            </li>
+            <li> <a href="{% url 'career' %}" style="color: #050763"><i class="fa fa-user" style="margin-right: 8px"></i>Career</a></li>
+            <li><a href="{% url 'contactus' %}" style="color: #050763"><i class="fa fa-phone-square" style="margin-right: 8px"></i>Contact Us</a></li>
+         </ul>
+        </div>
+    </nav>
+
+
+<script>
+window.onscroll = function() {myFunction()};
+
+var navbar = document.getElementById("navbar");
+var sticky = navbar.offsetTop;
+
+function myFunction() {
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("sticky")
+  } else {
+    navbar.classList.remove("sticky");
+  }
+}
+</script>
+<style>
+
+</style>
+
+
+{#<nav class="navbar navbar-expand-lg">#}
+{#  <div class="logo"><h1>Tax Consultancy</h1></div>#}
+{#  <div class="container-fluid" style="font-size: larger;margin-left: 300px">#}
+{#    <a class="navbar-brand" href="#">Home</a>#}
+{#    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">#}
+{#      <span class="navbar-toggler-icon"></span>#}
+{#    </button>#}
+{#    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">#}
+{#      <div class="navbar-nav" >#}
+{##}
+{#        <a class="nav-link active" aria-current="page" href="#">Why We</a>#}
+{#        <a class="nav-link active" aria-current="page" href="#">Servives</a>#}
+{#        <a class="nav-link active" aria-current="page" href="#">Blog</a>#}
+{#        <a class="nav-link active" aria-current="page" href="#">Contact</a>#}
+{##}
+{#      </div>#}
+{#    </div>#}
+{#  </div>#}
+{#</nav>#}
+
+
+
+
+
+
+
+
+
+
